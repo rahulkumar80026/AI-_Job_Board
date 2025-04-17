@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "company": "TechCorp",
+    "location": "Remote",
+    "tags": ["React", "JavaScript", "Tailwind"],
+    "salary": "₹10-15 LPA"
+  },
+  {
+    "id": 2,
+    "title": "Backend Developer",
+    "company": "Cloudify",
+    "location": "Bangalore",
+    "tags": ["Node.js", "MongoDB", "Express"],
+    "salary": "₹12-18 LPA"
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Engineer",
+    "company": "InnovateX",
+    "location": "Delhi",
+    "tags": ["React", "Node.js", "MongoDB"],
+    "salary": "₹15-20 LPA"
+  },
+
+  {
+    "id": 4,
+    "title": "UI/UX Designer",
+    "company": "Designify",
+    "location": "Remote",
+    "tags": ["Figma", "Adobe XD", "Sketch"],
+    "salary": "₹8-12 LPA"
+  },
+  {
+    "id": 5,
+    "title": "Data Scientist",
+    "company": "DataMind",
+    "location": "Bangalore",
+    "tags": ["Python", "Machine Learning", "SQL"],
+    "salary": "₹12-18 LPA"
+  },
+  {
+    "id": 6,
+    "title": "DevOps Engineer",
+    "company": "TechWave",
+    "location": "Mumbai",
+    "tags": ["Docker", "Kubernetes", "AWS"],
+    "salary": "₹14-20 LPA"
+  },
+  {
+    "id": 7,
+    "title": "Mobile App Developer",
+    "company": "AppWorks",
+    "location": "Remote",
+    "tags": ["React Native", "JavaScript", "Firebase"],
+    "salary": "₹10-15 LPA"
+  },
+  {
+    "id": 8,
+    "title": "Cloud Architect",
+    "company": "CloudStack",
+    "location": "Hyderabad",
+    "tags": ["AWS", "Azure", "Terraform"],
+    "salary": "₹18-25 LPA"
+  },
+  {
+    "id": 9,
+    "title": "QA Engineer",
+    "company": "TestPro",
+    "location": "Chennai",
+    "tags": ["Selenium", "Automation", "Java"],
+    "salary": "₹8-12 LPA"
+  }
+]
